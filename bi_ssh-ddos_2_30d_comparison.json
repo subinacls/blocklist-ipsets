@@ -1,0 +1,200 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 58516,
+		"common": 3
+	},
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 13813,
+		"common": 3
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 2019,
+		"common": 4
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 1885,
+		"common": 4
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 152851,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 193201,
+		"common": 1
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 202,
+		"common": 3
+	},
+	{
+		"name": "dataplane_dnsversion",
+		"category": "attacks",
+		"ips": 123,
+		"common": 3
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 398,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 7869,
+		"common": 3
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 6912,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 27648,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 14080,
+		"common": 1
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 900,
+		"common": 3
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24627565,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 303620,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 646484835,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 30739,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 53691,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 14868,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138936044,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 5382,
+		"common": 3
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 5340,
+		"common": 3
+	},
+	{
+		"name": "nullsecure",
+		"category": "reputation",
+		"ips": 29439,
+		"common": 3
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 3455,
+		"common": 1
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 13346,
+		"common": 3
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 48155,
+		"common": 3
+	}
+]

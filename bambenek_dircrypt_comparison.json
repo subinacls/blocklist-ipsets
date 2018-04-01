@@ -1,0 +1,152 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 58516,
+		"common": 1
+	},
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 478,
+		"common": 2
+	},
+	{
+		"name": "bambenek_necurs",
+		"category": "malware",
+		"ips": 37,
+		"common": 1
+	},
+	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 5,
+		"common": 1
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 122,
+		"common": 2
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 115,
+		"common": 2
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 54,
+		"common": 2
+	},
+	{
+		"name": "blueliv_crimeserver_last_30d",
+		"category": "attacks",
+		"ips": 19031,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 73660,
+		"common": 1
+	},
+	{
+		"name": "coinbl_hosts",
+		"category": "organizations",
+		"ips": 2689,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24627565,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 646484835,
+		"common": 2
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 53691,
+		"common": 1
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 15120,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 32668,
+		"common": 2
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 28030,
+		"common": 1
+	},
+	{
+		"name": "hphosts_grm",
+		"category": "spam",
+		"ips": 349,
+		"common": 1
+	},
+	{
+		"name": "hphosts_mmt",
+		"category": "reputation",
+		"ips": 1073,
+		"common": 1
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1956,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 40841,
+		"common": 1
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 1041,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227908536,
+		"common": 2
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5091,
+		"common": 1
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 110,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 102,
+		"common": 1
+	}
+]

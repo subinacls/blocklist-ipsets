@@ -1,0 +1,104 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 478,
+		"common": 37
+	},
+	{
+		"name": "bambenek_dircrypt",
+		"category": "malware",
+		"ips": 2,
+		"common": 1
+	},
+	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 5,
+		"common": 1
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 122,
+		"common": 1
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 115,
+		"common": 1
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 54,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 646484835,
+		"common": 37
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 32668,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227908536,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_sprint",
+		"category": "organizations",
+		"ips": 6310530,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762689945,
+		"common": 7
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346545019,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138936044,
+		"common": 2
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 6
+	}
+]

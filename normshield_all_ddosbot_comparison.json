@@ -1,0 +1,176 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 58516,
+		"common": 3
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 3
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 6912,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 27648,
+		"common": 2
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 14080,
+		"common": 1
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 900,
+		"common": 2
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24627565,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 646484835,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 30739,
+		"common": 3
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 53691,
+		"common": 3
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3761,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 14868,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762689945,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 5382,
+		"common": 4
+	},
+	{
+		"name": "normshield_all_bruteforce",
+		"category": "attacks",
+		"ips": 2735,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_suspicious",
+		"category": "abuse",
+		"ips": 118,
+		"common": 2
+	},
+	{
+		"name": "normshield_all_webscan",
+		"category": "attacks",
+		"ips": 175,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 5340,
+		"common": 4
+	},
+	{
+		"name": "normshield_high_bruteforce",
+		"category": "attacks",
+		"ips": 2643,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_ddosbot",
+		"category": "attacks",
+		"ips": 4,
+		"common": 4
+	},
+	{
+		"name": "normshield_high_suspicious",
+		"category": "abuse",
+		"ips": 118,
+		"common": 2
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 2906,
+		"common": 2
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 3455,
+		"common": 4
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 11397,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 13346,
+		"common": 2
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 48155,
+		"common": 1
+	}
+]

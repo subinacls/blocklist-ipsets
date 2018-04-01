@@ -1,0 +1,206 @@
+[
+	{
+		"code": "ANYCAST",
+		"value": 474
+	},
+	{
+		"code": "AR",
+		"value": 2
+	},
+	{
+		"code": "AT",
+		"value": 5
+	},
+	{
+		"code": "AU",
+		"value": 9
+	},
+	{
+		"code": "BE",
+		"value": 3
+	},
+	{
+		"code": "BG",
+		"value": 17
+	},
+	{
+		"code": "BO",
+		"value": 1
+	},
+	{
+		"code": "BR",
+		"value": 8
+	},
+	{
+		"code": "CA",
+		"value": 61
+	},
+	{
+		"code": "CH",
+		"value": 8
+	},
+	{
+		"code": "CL",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 64
+	},
+	{
+		"code": "CW",
+		"value": 2
+	},
+	{
+		"code": "CZ",
+		"value": 9
+	},
+	{
+		"code": "DE",
+		"value": 313
+	},
+	{
+		"code": "DK",
+		"value": 2
+	},
+	{
+		"code": "EE",
+		"value": 1
+	},
+	{
+		"code": "ES",
+		"value": 10
+	},
+	{
+		"code": "FI",
+		"value": 2
+	},
+	{
+		"code": "FR",
+		"value": 363
+	},
+	{
+		"code": "GB",
+		"value": 64
+	},
+	{
+		"code": "HK",
+		"value": 24
+	},
+	{
+		"code": "HU",
+		"value": 3
+	},
+	{
+		"code": "ID",
+		"value": 3
+	},
+	{
+		"code": "IE",
+		"value": 25
+	},
+	{
+		"code": "IN",
+		"value": 5
+	},
+	{
+		"code": "IR",
+		"value": 1
+	},
+	{
+		"code": "IT",
+		"value": 10
+	},
+	{
+		"code": "JP",
+		"value": 114
+	},
+	{
+		"code": "KR",
+		"value": 14
+	},
+	{
+		"code": "LT",
+		"value": 4
+	},
+	{
+		"code": "LU",
+		"value": 4
+	},
+	{
+		"code": "LV",
+		"value": 1
+	},
+	{
+		"code": "MD",
+		"value": 1
+	},
+	{
+		"code": "MY",
+		"value": 1
+	},
+	{
+		"code": "NL",
+		"value": 276
+	},
+	{
+		"code": "NO",
+		"value": 2
+	},
+	{
+		"code": "PH",
+		"value": 1
+	},
+	{
+		"code": "PL",
+		"value": 28
+	},
+	{
+		"code": "PT",
+		"value": 2
+	},
+	{
+		"code": "RO",
+		"value": 13
+	},
+	{
+		"code": "RU",
+		"value": 57
+	},
+	{
+		"code": "SE",
+		"value": 11
+	},
+	{
+		"code": "SG",
+		"value": 54
+	},
+	{
+		"code": "SI",
+		"value": 8
+	},
+	{
+		"code": "SK",
+		"value": 1
+	},
+	{
+		"code": "TR",
+		"value": 2
+	},
+	{
+		"code": "TW",
+		"value": 5
+	},
+	{
+		"code": "UA",
+		"value": 17
+	},
+	{
+		"code": "US",
+		"value": 579
+	},
+	{
+		"code": "ZA",
+		"value": 1
+	}
+]

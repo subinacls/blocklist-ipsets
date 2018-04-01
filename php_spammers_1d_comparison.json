@@ -1,0 +1,128 @@
+[
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 35663,
+		"common": 50
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 303620,
+		"common": 46
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 11
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227908536,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762689945,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346545019,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spider",
+		"category": "reputation",
+		"ips": 846624,
+		"common": 14
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 350174,
+		"common": 8
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 14900,
+		"common": 15
+	},
+	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 9
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 9
+	},
+	{
+		"name": "php_commenters_30d",
+		"category": "spam",
+		"ips": 1014,
+		"common": 18
+	},
+	{
+		"name": "php_commenters_7d",
+		"category": "spam",
+		"ips": 244,
+		"common": 13
+	},
+	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 13
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 13
+	},
+	{
+		"name": "php_dictionary_30d",
+		"category": "spam",
+		"ips": 1069,
+		"common": 19
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 287,
+		"common": 16
+	},
+	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 50
+	},
+	{
+		"name": "php_spammers_30d",
+		"category": "spam",
+		"ips": 1170,
+		"common": 50
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 314,
+		"common": 50
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 1
+	}
+]

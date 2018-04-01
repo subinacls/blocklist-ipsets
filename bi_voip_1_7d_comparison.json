@@ -1,0 +1,14 @@
+[
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096501,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 48155,
+		"common": 3
+	}
+]
